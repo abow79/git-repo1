@@ -1,1 +1,1 @@
-print("Hello G8 & Git")
+print("Fuck G8 & Git")
