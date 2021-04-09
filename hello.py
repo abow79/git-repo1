@@ -1,1 +1,1 @@
-print("Fuck G8 & Git is complicated")
+print("Git is complicated")
